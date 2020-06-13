@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/quizRansac.dir/ransac2d.cpp.o"
-  "CMakeFiles/quizRansac.dir/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.o"
+  "CMakeFiles/quizRansac.dir/home/ihabib/repos/LIDAR/src/render/render.cpp.o"
   "quizRansac.pdb"
   "quizRansac"
 )

@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/processPointClouds.cpp
+/home/ihabib/repos/LIDAR/src/processPointClouds.cpp
 processPointClouds.h
-/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
+/home/ihabib/repos/LIDAR/src/processPointClouds.h
 
-/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
+/home/ihabib/repos/LIDAR/src/processPointClouds.h
 pcl/io/pcd_io.h
 -
 pcl/common/common.h
@@ -39,32 +39,34 @@ ctime
 -
 chrono
 -
+unordered_set
+-
 render/box.h
-/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/render/box.h
+/home/ihabib/repos/LIDAR/src/render/box.h
 
-/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/ransac2d.cpp
+/home/ihabib/repos/LIDAR/src/quiz/ransac/ransac2d.cpp
 ../../render/render.h
-/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/render/render.h
+/home/ihabib/repos/LIDAR/src/render/render.h
 unordered_set
 -
 ../../processPointClouds.h
-/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/processPointClouds.h
+/home/ihabib/repos/LIDAR/src/processPointClouds.h
 ../../processPointClouds.cpp
-/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/processPointClouds.cpp
+/home/ihabib/repos/LIDAR/src/processPointClouds.cpp
 
-/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/render/box.h
+/home/ihabib/repos/LIDAR/src/render/box.h
 Eigen/Geometry
 -
 
-/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/render/render.cpp
+/home/ihabib/repos/LIDAR/src/render/render.cpp
 render.h
-/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/render/render.h
+/home/ihabib/repos/LIDAR/src/render/render.h
 
-/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/render/render.h
+/home/ihabib/repos/LIDAR/src/render/render.h
 pcl/visualization/pcl_visualizer.h
 -
 box.h
-/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/render/box.h
+/home/ihabib/repos/LIDAR/src/render/box.h
 iostream
 -
 vector

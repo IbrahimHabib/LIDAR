@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/render/render.cpp" "/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build/CMakeFiles/quizRansac.dir/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/render/render.cpp.o"
-  "/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/ransac2d.cpp" "/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build/CMakeFiles/quizRansac.dir/ransac2d.cpp.o"
+  "/home/ihabib/repos/LIDAR/src/render/render.cpp" "/home/ihabib/repos/LIDAR/src/quiz/ransac/build/CMakeFiles/quizRansac.dir/home/ihabib/repos/LIDAR/src/render/render.cpp.o"
+  "/home/ihabib/repos/LIDAR/src/quiz/ransac/ransac2d.cpp" "/home/ihabib/repos/LIDAR/src/quiz/ransac/build/CMakeFiles/quizRansac.dir/ransac2d.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

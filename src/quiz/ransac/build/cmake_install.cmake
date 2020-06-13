@@ -1,4 +1,4 @@
-# Install script for directory: /home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/quiz/ransac
+# Install script for directory: /home/ihabib/repos/LIDAR/src/quiz/ransac
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ihabib/repos/SFND_Lidar_Obstacle_Detection/src/quiz/ransac/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ihabib/repos/LIDAR/src/quiz/ransac/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
