@@ -24,11 +24,34 @@ struct KdTree
 	KdTree()
 	: root(NULL)
 	{}
+	void inserthelper(Node** node, std::vector<float> point, uint depth, int id)
+	{
+		if (*node == NULL)
+		{
+			*node = new Node(point,id);
+		}
+		else
+		{
+			//calculate current dimension
+			uint cd = depth%2;
 
+			if (point[cd] < ((*node)->point[cd]))
+			{
+				inserthelper(&(*node)->left,point,depth+1,id);
+			}
+			else
+			{
+				inserthelper(&(*node)->right,point,depth+1,id);
+			}
+			
+			
+		}
+		
+		
+	}
 	void insert(std::vector<float> point, int id)
 	{
-		// TODO: Fill in this function to insert a new point into the tree
-		// the function should create a new node and place correctly with in the root 
+		inserthelper(&root,point,0,id);
 
 	}
 
