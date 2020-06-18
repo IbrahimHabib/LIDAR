@@ -6,9 +6,9 @@ Project goals:
 
 To build and run the project:
 
-mkdir build
-cd build
-cmake ..
-make
-./environment
+$ mkdir build
+$ cd build
+$ cmake ..
+$ make
+$ ./environment
 
